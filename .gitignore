@@ -1,0 +1,38 @@
+venv/
+MULTI_AI_AGENT.egg-info/
+logs/
+.env
+# Virtual environments
+venv/
+venv_new/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Build
+dist/
+build/
+*.egg-info/
+build/
